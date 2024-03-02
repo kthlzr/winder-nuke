@@ -30,7 +30,7 @@ def banner():
 
 serverName = "nuked by linux"
 channelName = "nuked by linux"
-spamMsg = "@everyone @here [.gg/winder] (https://discord.gg/Am4BMksGmE)"
+spamMsg = "@everyone @here **[.gg/winder](https://discord.gg/Am4BMksGmE)**"
 newNick = "bomba na"
 
 def runBot(botToken):
